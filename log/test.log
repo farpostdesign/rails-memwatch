@@ -1,0 +1,237 @@
+Started GET "/empty-page" for 127.0.0.1 at 2017-11-16 11:49:25 +1000
+  
+ActionView::MissingTemplate (Missing template application/empty with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:16:28 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:16:28 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:28:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:28:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:16 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:16 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:45 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:36:45 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:37:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:37:38 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:44:35 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:44:35 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:44:50 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:44:50 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:11 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:11 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:20 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:20 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:57 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:45:57 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:52:47 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:52:47 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:53:51 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:53:51 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:31 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:40 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:40 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:46 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:46 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:51 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:54:51 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:55:08 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:55:08 +1000
+  
+RuntimeError (woops):
+  
+lib/rails/memwatch/middleware.rb:18:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:40 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:40 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:48 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:48 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
+Started GET "/exceeding-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:58 +1000
+  
+ActionView::MissingTemplate (Missing template application/exceeding with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
+Started GET "/normal-mem-usage" for 127.0.0.1 at 2017-11-16 12:56:58 +1000
+  
+ActionView::MissingTemplate (Missing template application/normal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+):
+  
+lib/rails/memwatch/middleware.rb:19:in `call'
